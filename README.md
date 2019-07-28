@@ -1,2 +1,2 @@
 # bookmark-switcher
-Switch 'Bookmarks bar' based on the selected folder from 'Other bookmarks'
+Simple chrome extension that switches bookmarks on 'Bookmarks bar' based on the selected folder from 'Other bookmarks'
